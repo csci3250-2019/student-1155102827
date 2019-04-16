@@ -23,8 +23,8 @@ Milestone 1, and this one. I am using BitBucket recently because of the course C
 
 ## Screenshots of Milestone 2
 ### Code for Git
-<img src="https://raw.githubusercontent.com/csci3250-2019/student-1155102827/master/screenshot/pic2.png" height="50%" width="50%">
+<img src="https://raw.githubusercontent.com/csci3250-2019/student-1155102827/master/screenshot/pic2.png" height="65%" width="65%">
 
 ### Code for readme.md
-<img src="https://raw.githubusercontent.com/csci3250-2019/student-1155102827/master/screenshot/pic1.png" height="50%" width="50%">
+<img src="https://raw.githubusercontent.com/csci3250-2019/student-1155102827/master/screenshot/pic1.png" height="65%" width="65%">
 
