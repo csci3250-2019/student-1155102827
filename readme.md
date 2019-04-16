@@ -3,14 +3,14 @@ I am now a year 2 CE student, and I am still working **two** projects and I am g
 ---
 
 ## Programming Language able to use recently
--[X] C
--[X] C++
--[X] PHP
--[X] JavaScript
--[] Python
--[] Java
--[] Pascal
--[] Swift
+- [X] C
+- [X] C++
+- [X] PHP
+- [X] JavaScript
+- [] Python
+- [] Java
+- [] Pascal
+- [] Swift
 
 ## Experience in Github
 Milestone 1, and this one. I am using BitBucket recently because of the course CSCI3100.
