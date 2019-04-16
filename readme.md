@@ -7,10 +7,10 @@ I am now a year 2 CE student, and I am still working **two** projects and I am g
 - [X] C++
 - [X] PHP
 - [X] JavaScript
-- [] Python
-- [] Java
-- [] Pascal
-- [] Swift
+- [ ] Python
+- [ ] Java
+- [ ] Pascal
+- [ ] Swift
 
 ## Experience in Github
 Milestone 1, and this one. I am using BitBucket recently because of the course CSCI3100.
