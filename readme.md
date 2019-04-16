@@ -1,6 +1,5 @@
 # WONG Theng Fu, Timothy
 I am now a year 2 CE student, and I am still working **two** projects and I am going to have a final exam **two days** later. This course is so **time-consuming**.
----
 
 ## Programming Language able to use recently
 - [X] C
