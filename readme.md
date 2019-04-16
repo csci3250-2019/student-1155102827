@@ -24,9 +24,8 @@ Milestone 1, and this one. I am using BitBucket recently because of the course C
 
 ## Screenshots of Milestone 2
 ### Code for Git
-
+![ScreenShot](https://raw.githubusercontent.com/csci3250-2019/student-1155102827/master/screenshot/pic2.png)
 
 ### Code for readme.md
-
-
+![ScreenShot](https://raw.githubusercontent.com/csci3250-2019/student-1155102827/master/screenshot/pic1.png)
 
